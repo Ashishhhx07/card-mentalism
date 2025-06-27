@@ -48,3 +48,10 @@
 
 ## 📂 Folder Structure
 
+card-mentalism/
+├── index.html
+├── script.js
+├── style.css
+├── ashish.jpg
+├── LICENSE.txt
+└── README.mdgit
