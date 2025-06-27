@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2025 Matt Cannon (https://codepen.io/matt-cannon/pen/gbOJbpZ)
+Copyright (c) 2025 Ashish Ranjan (https://codepen.io/giellzsf-the-bashful/pen/raVPEjX)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
