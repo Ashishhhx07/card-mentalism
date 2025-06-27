@@ -55,3 +55,12 @@ card-mentalism/
 ├── ashish.jpg
 ├── LICENSE.txt
 └── README.mdgit
+
+---
+
+## 📸 Screenshots
+
+| Game Start | Mind-Reading Reveal |
+|------------|--------------------|
+| <img src="screenshot-start.png"  width="350" alt="Game start screen" /> | <img src="screenshot-reveal.png" width="350" alt="Mind-reading reveal" /> |
+
